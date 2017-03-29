@@ -11,4 +11,6 @@
     scad/ used.包含设计文件的组成部分使用OpenSCAD。 
     sketchup/ 包含设计文件的组成部分使用SketchUp。 
 
+项目的原地址http://www.thingiverse.com/thing:1086101 
+
 还有一个这个项目的社区论坛，位于http://community.reprapwilson3d.com 
