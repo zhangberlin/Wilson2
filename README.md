@@ -11,6 +11,10 @@
     scad/ used.包含设计文件的组成部分使用OpenSCAD。 
     sketchup/ 包含设计文件的组成部分使用SketchUp。 
 
+
+
+制作安装过程见https://github.com/zhangberlin/Wilson2/wiki
+
 项目的原地址http://www.thingiverse.com/thing:1086101 
 
 还有一个这个项目的社区论坛，位于http://community.reprapwilson3d.com 
