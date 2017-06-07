@@ -1,6 +1,6 @@
 # Wilson2
 
-![alt tag](https://github.com/mjrice/Wilson2/doc/wilson-source-weblogo-swjtu.png)
+![alt tag](https://github.com/mjrice/Wilson2/doc/wilson-source-weblog.png)
 
 这是Wilson II的设计库，Wilson II是一种基于Wilson TS的RepRap 3D打印机，结合了Prusa I3和lulzbot TAZ两个打印机的特点。
 
