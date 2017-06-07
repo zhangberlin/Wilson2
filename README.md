@@ -19,17 +19,19 @@
 
 还有一个这个项目的社区论坛，位于http://community.reprapwilson3d.com
 
+装配视频优酷连接
+http://v.youku.com/v_show/id_XMjY4MDc5NjU3Ng==.html?spm=a2hzp.8253876.0.0&f=49383307
 
-<embed src='http://player.youku.com/player.php/Type/Folder/Fid//Ob//sid/XMjY4MDc5NjU3Ng==/v.swf' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' allowFullScreen='true' mode='transparent' type='application/x-shockwave-flash'></embed>
+1<embed src='http://player.youku.com/player.php/Type/Folder/Fid//Ob//sid/XMjY4MDc5NjU3Ng==/v.swf' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' allowFullScreen='true' mode='transparent' type='application/x-shockwave-flash'></embed>
 
-<embed src='http://player.youku.com/player.php/Type/Folder/Fid//Ob//sid/XMjY4MDgwNDE3Ng==/v.swf' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' allowFullScreen='true' mode='transparent' type='application/x-shockwave-flash'></embed>
+2<embed src='http://player.youku.com/player.php/Type/Folder/Fid//Ob//sid/XMjY4MDgwNDE3Ng==/v.swf' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' allowFullScreen='true' mode='transparent' type='application/x-shockwave-flash'></embed>
 
-<embed src='http://player.youku.com/player.php/Type/Folder/Fid//Ob//sid/XMjY4MDgwODY1Ng==/v.swf' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' allowFullScreen='true' mode='transparent' type='application/x-shockwave-flash'></embed>
+3<embed src='http://player.youku.com/player.php/Type/Folder/Fid//Ob//sid/XMjY4MDgwODY1Ng==/v.swf' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' allowFullScreen='true' mode='transparent' type='application/x-shockwave-flash'></embed>
 
-<embed src='http://player.youku.com/player.php/Type/Folder/Fid//Ob//sid/XMjY4MDgyNDUyMA==/v.swf' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' allowFullScreen='true' mode='transparent' type='application/x-shockwave-flash'></embed>
+4<embed src='http://player.youku.com/player.php/Type/Folder/Fid//Ob//sid/XMjY4MDgyNDUyMA==/v.swf' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' allowFullScreen='true' mode='transparent' type='application/x-shockwave-flash'></embed>
 
-<embed src='http://player.youku.com/player.php/Type/Folder/Fid//Ob//sid/XMjY4MDgzMDc4OA==/v.swf' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' allowFullScreen='true' mode='transparent' type='application/x-shockwave-flash'></embed>
+5<embed src='http://player.youku.com/player.php/Type/Folder/Fid//Ob//sid/XMjY4MDgzMDc4OA==/v.swf' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' allowFullScreen='true' mode='transparent' type='application/x-shockwave-flash'></embed>
 
-<embed src='http://player.youku.com/player.php/Type/Folder/Fid//Ob//sid/XMjY4MDg0NTE4OA==/v.swf' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' allowFullScreen='true' mode='transparent' type='application/x-shockwave-flash'></embed>
+6<embed src='http://player.youku.com/player.php/Type/Folder/Fid//Ob//sid/XMjY4MDg0NTE4OA==/v.swf' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' allowFullScreen='true' mode='transparent' type='application/x-shockwave-flash'></embed>
 
-<embed src='http://player.youku.com/player.php/Type/Folder/Fid//Ob//sid/XMjY4MDk2MDMyOA==/v.swf' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' allowFullScreen='true' mode='transparent' type='application/x-shockwave-flash'></embed>
+7<embed src='http://player.youku.com/player.php/Type/Folder/Fid//Ob//sid/XMjY4MDk2MDMyOA==/v.swf' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' allowFullScreen='true' mode='transparent' type='application/x-shockwave-flash'></embed>
